@@ -12,3 +12,13 @@
         width: 450px;
     }
 }
+
+img {
+    width: 180px;
+}
+
+.btnX {
+    position: relative;
+    float: right;
+    cursor: pointer;
+}
